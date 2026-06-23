@@ -8,6 +8,10 @@
 
 </div>
 
+> [!WARNING]
+> This is a personal fork that pursues two goals: contributing to the original project and adding features I personally miss/like that have been discarded.
+> All credits to the original [project](https://github.com/nethical6/curbox/)
+
 Curbox (formerly Digipauwse) is a powerful open source utility for Android built to help you reclaim your time and master your digital habits. It provides a suite of tools designed to break the cycle of screen addiction through granular control and deep insights.
 
 ### Screenshots
